@@ -8,4 +8,4 @@ python实现决策树算法
 	所需提交材料：任务一需要编程画出决策树，编写实验报告进行简述其原理，编程思路等。
 
 
-![image](https://github.com/cdqncn/JueCeShu/jueceshu.png)
+![image](https://github.com/cdqncn/raw/master/JueCeShu/jueceshu.png)
