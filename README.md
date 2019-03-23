@@ -7,5 +7,5 @@ python实现决策树算法
 训练算法：采用决策树分类算法，获得预测隐形眼镜类型的决策树。
 	所需提交材料：任务一需要编程画出决策树，编写实验报告进行简述其原理，编程思路等。
 
-
+效果如图所示：
 ![image](https://github.com/cdqncn/JueCeShu/raw/master/jueceshu.png)
